@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "families": [
+    {
+      "id": "1.21",
+      "label": "Lumera 1.21",
+      "art": null,
+      "blurb": "The current line — HUD modules, waypoints and performance controls.",
+      "builds": [
+        { "mc": "1.21.11", "loader": "fabric", "jarUrl": null },
+        { "mc": "1.21.10", "loader": "fabric", "jarUrl": null },
+        { "mc": "1.21.8",  "loader": "fabric", "jarUrl": null },
+        { "mc": "1.21.5",  "loader": "fabric", "jarUrl": null },
+        { "mc": "1.21.4",  "loader": "fabric", "jarUrl": null },
+        { "mc": "1.21.1",  "loader": "fabric", "jarUrl": null }
+      ]
+    },
+    {
+      "id": "26",
+      "label": "Lumera 26",
+      "art": null,
+      "blurb": "Built against the 26 snapshots line.",
+      "builds": [
+        { "mc": "26.2", "loader": "fabric", "jarUrl": null },
+        { "mc": "26.1", "loader": "fabric", "jarUrl": null }
+      ]
+    }
+  ]
+}
