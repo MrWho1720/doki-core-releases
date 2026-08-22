@@ -2,27 +2,195 @@
   "version": 1,
   "families": [
     {
-      "id": "1.21",
-      "label": "Lumera 1.21",
-      "art": null,
-      "blurb": "The current line — HUD modules, waypoints and performance controls.",
-      "builds": [
-        { "mc": "1.21.11", "loader": "fabric", "jarUrl": null },
-        { "mc": "1.21.10", "loader": "fabric", "jarUrl": null },
-        { "mc": "1.21.8",  "loader": "fabric", "jarUrl": null },
-        { "mc": "1.21.5",  "loader": "fabric", "jarUrl": null },
-        { "mc": "1.21.4",  "loader": "fabric", "jarUrl": null },
-        { "mc": "1.21.1",  "loader": "fabric", "jarUrl": null }
-      ]
-    },
-    {
       "id": "26",
       "label": "Lumera 26",
       "art": null,
       "blurb": "Built against the 26 snapshots line.",
       "builds": [
-        { "mc": "26.2", "loader": "fabric", "jarUrl": null },
-        { "mc": "26.1", "loader": "fabric", "jarUrl": null }
+        {
+          "mc": "26.2",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-26.2-fabric-1.0.13.jar",
+          "sha1": "d6ec97b1670f28350b289a15a1175ae6d29c7f14",
+          "sizeBytes": 153502846,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "26.1",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-26.1-fabric-1.0.13.jar",
+          "sha1": "e92a1148c94256b299009a2fd5434f552fec8f83",
+          "sizeBytes": 153598145,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.21",
+      "label": "Lumera 1.21",
+      "art": null,
+      "blurb": "The current line — HUD modules, waypoints and performance controls.",
+      "builds": [
+        {
+          "mc": "1.21.11",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.11-fabric-1.0.13.jar",
+          "sha1": "77e2b2dba2e22e4497b8bdf4e39054c51a83eae1",
+          "sizeBytes": 153860535,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "1.21.10",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.10-fabric-1.0.13.jar",
+          "sha1": "dbd157140e0cd021827b7302a259eeb8bd81a5c0",
+          "sizeBytes": 153643491,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "1.21.8",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.8-fabric-1.0.13.jar",
+          "sha1": "ab772b885e5cdf6bed646f1cc5f14e39c55c6a10",
+          "sizeBytes": 153564753,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "1.21.5",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.5-fabric-1.0.13.jar",
+          "sha1": "5fc0e7092e05e9bfb87fea4a20405ee9135135d9",
+          "sizeBytes": 153533709,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "1.21.4",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.4-fabric-1.0.13.jar",
+          "sha1": "782601795998449ce405dd672d986dfa6232a616",
+          "sizeBytes": 153526694,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        },
+        {
+          "mc": "1.21.1",
+          "loader": "fabric",
+          "loaderVersion": null,
+          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/lumera-core-1.21.1-fabric-1.0.13.jar",
+          "sha1": "e3df16232de64568e97efec7b37cd97abfb12f87",
+          "sizeBytes": 153440438,
+          "extraJars": [
+            {
+              "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.13/compose-bundle-1.0.2%2Bcompose.1.12.0-alpha01.jar",
+              "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
+              "sizeBytes": 68012915
+            },
+            {
+              "filename": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "url": "https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.13.10+kotlin.2.3.20/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+              "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+              "sizeBytes": 7796348
+            }
+          ]
+        }
       ]
     }
   ]
