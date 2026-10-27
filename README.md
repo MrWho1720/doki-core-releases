@@ -1,7 +1,7 @@
-# Lumera Core — releases
+# doki Core — releases
 
-Public catalog and jar assets for **Lumera Core**, the in-game client behind
-*Lumera's Collection* in the Lumera Client launcher. Source is private and lives
+Public catalog and jar assets for **doki Core**, the in-game client behind
+*doki's Collection* in the doki Client launcher. Source is private and lives
 elsewhere.
 
 This repo is public because the launcher reads it with **no credentials**.
@@ -24,7 +24,7 @@ versions offered in that card's dropdown.
   "version": 1,                     // schema version; the launcher refuses anything else
   "families": [{
     "id": "1.21",                   // stable key
-    "label": "Lumera 1.21",         // card title
+    "label": "doki 1.21",         // card title
     "art": null,                    // cover image URL, or null for the generated cover
     "blurb": "…",
     "builds": [{
@@ -34,7 +34,7 @@ versions offered in that card's dropdown.
       "jarUrl": null,               // null = listed but NOT installable ("Coming soon")
       "sha1": null,                 // verified on download when present
       "sizeBytes": null,
-      "extraJars": []               // companions dropped into mods/ alongside Lumera Core
+      "extraJars": []               // companions dropped into mods/ alongside doki Core
     }]
   }]
 }
@@ -54,5 +54,5 @@ never requires a launcher release.
 
 ## Versions
 
-Lumera Core targets **Fabric on 1.21.1 → 26.2**. Legacy lines (1.8, 1.12, 1.16,
+doki Core targets **Fabric on 1.21.1 → 26.2**. Legacy lines (1.8, 1.12, 1.16,
 1.17) are not a rename away — they are a port, and are not offered here.

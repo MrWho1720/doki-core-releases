@@ -3,19 +3,19 @@
   "families": [
     {
       "id": "1.21",
-      "label": "Lumera 1.21",
+      "label": "doki 1.21",
       "blurb": "The current line — HUD modules, waypoints and performance controls.",
       "builds": [
         {
           "mc": "1.21.11",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.11-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.11-fabric-1.0.14.jar",
           "sha1": "2a3966eb6a5f41c12314bb59ac813a7dc60178e7",
           "sizeBytes": 35432875,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -90,13 +90,13 @@
         {
           "mc": "1.21.10",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.10-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.10-fabric-1.0.14.jar",
           "sha1": "c800672cb6bd6fddfd0a5e9cafbdb2b0cae9d933",
           "sizeBytes": 35215581,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -171,13 +171,13 @@
         {
           "mc": "1.21.8",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.8-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.8-fabric-1.0.14.jar",
           "sha1": "9d73d93b8bf571abc06ac768aa4b7681f40b182a",
           "sizeBytes": 35136499,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -252,13 +252,13 @@
         {
           "mc": "1.21.5",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.5-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.5-fabric-1.0.14.jar",
           "sha1": "a4155733c05ae2e28e70fa37923d9c948458d291",
           "sizeBytes": 35105244,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -333,13 +333,13 @@
         {
           "mc": "1.21.4",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.4-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.4-fabric-1.0.14.jar",
           "sha1": "99a9e31c3b057f77a094b84fca19a3a0dec1dffb",
           "sizeBytes": 35098239,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -414,13 +414,13 @@
         {
           "mc": "1.21.1",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-1.21.1-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-1.21.1-fabric-1.0.14.jar",
           "sha1": "4b6ec98efc592ad40af8beac1b4eaf162a97df8b",
           "sizeBytes": 35012223,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -496,19 +496,19 @@
     },
     {
       "id": "26",
-      "label": "Lumera 26",
+      "label": "doki 26",
       "blurb": "Built against the 26 snapshots line.",
       "builds": [
         {
           "mc": "26.2",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-26.2-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-26.2-fabric-1.0.14.jar",
           "sha1": "8fcb33b761660be9db77b9096dc961ced97aa75c",
           "sizeBytes": 35075205,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
@@ -583,13 +583,13 @@
         {
           "mc": "26.1",
           "loader": "fabric",
-          "jarUrl": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/lumera-core-26.1-fabric-1.0.14.jar",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/lumera-core-26.1-fabric-1.0.14.jar",
           "sha1": "9bd29ba8b7d91a87d575ad63425e5b688775afb7",
           "sizeBytes": 35170464,
           "extraJars": [
             {
               "filename": "compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
-              "url": "https://github.com/MrWho1720/Lumera-Core-Releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
+              "url": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.0.14/compose-bundle-1.0.2+compose.1.12.0-alpha01.jar",
               "sha1": "e6baea756a95296624cf6d8b36249055086dc217",
               "sizeBytes": 68012915,
               "license": "LGPL-3.0-or-later",
