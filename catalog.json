@@ -10,10 +10,10 @@
           "mc": "1.21.11",
           "loader": "fabric",
           "loaderVersion": null,
-          "coreVersion": "1.4.0",
-          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.0/doki-core-1.21.11-1.4.0.jar",
-          "sha1": "d08bccf51c0a766e4b6e11c6cbb46b36eab1a333",
-          "sizeBytes": 1644229,
+          "coreVersion": "1.4.1",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.1/doki-core-1.21.11-1.4.1.jar",
+          "sha1": "cf8cd0a898206bbc314c5c07f027996146c4b552",
+          "sizeBytes": 1648494,
           "extraJars": [
             {
               "filename": "fabric-api-0.141.6+1.21.11.jar",
@@ -107,10 +107,10 @@
           "mc": "26.3",
           "loader": "fabric",
           "loaderVersion": null,
-          "coreVersion": "1.4.0",
-          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.0/doki-core-26.3-1.4.0.jar",
-          "sha1": "54cd0706b9f648b05aef3925b909647b9f51873e",
-          "sizeBytes": 1618351,
+          "coreVersion": "1.4.1",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.1/doki-core-26.3-1.4.1.jar",
+          "sha1": "cbda5c8de5fc31e679c89d51ef5706cf49e91ce0",
+          "sizeBytes": 1622562,
           "extraJars": [
             {
               "filename": "fabric-api-0.165.0+26.3.jar",
@@ -172,10 +172,10 @@
           "mc": "26.2",
           "loader": "fabric",
           "loaderVersion": null,
-          "coreVersion": "1.4.0",
-          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.0/doki-core-26.2-1.4.0.jar",
-          "sha1": "19ab82d3f4c9bb5f741a18f891d413ccd672b483",
-          "sizeBytes": 1618056,
+          "coreVersion": "1.4.1",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.1/doki-core-26.2-1.4.1.jar",
+          "sha1": "3797cccedd7cc8786854d11760a2eb9b2a3eb601",
+          "sizeBytes": 1622243,
           "extraJars": [
             {
               "filename": "fabric-api-0.161.0+26.2.jar",
@@ -237,10 +237,10 @@
           "mc": "26.1.2",
           "loader": "fabric",
           "loaderVersion": null,
-          "coreVersion": "1.4.0",
-          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.0/doki-core-26.1.2-1.4.0.jar",
-          "sha1": "9331715af183cac100cd600bc276ec0e6a36a2ac",
-          "sizeBytes": 1621916,
+          "coreVersion": "1.4.1",
+          "jarUrl": "https://github.com/MrWho1720/doki-core-releases/releases/download/core-v1.4.1/doki-core-26.1.2-1.4.1.jar",
+          "sha1": "7d74dfffe29e2076eb41b392475931780822b5c6",
+          "sizeBytes": 1626318,
           "extraJars": [
             {
               "filename": "fabric-api-0.155.3+26.1.2.jar",
