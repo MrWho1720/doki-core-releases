@@ -34,6 +34,15 @@
               "projectVersion": "mc1.21.11-0.8.14-fabric"
             },
             {
+              "filename": "iris-fabric-1.10.8+mc1.21.11.jar",
+              "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ka9PDlsN/iris-fabric-1.10.8%2Bmc1.21.11.jar",
+              "sha1": "acfbe6d065b6c35d85c14da04d35e073363f3acf",
+              "sizeBytes": 2807718,
+              "license": "LGPL-3.0-only",
+              "sourceUrl": "https://github.com/IrisShaders/Iris",
+              "projectVersion": "1.10.8+1.21.11-fabric"
+            },
+            {
               "filename": "lithium-fabric-0.21.4+mc1.21.11.jar",
               "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
               "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
@@ -131,6 +140,15 @@
               "projectVersion": "mc26.3-0.9.2-fabric"
             },
             {
+              "filename": "iris-fabric-1.11.7+mc26.3.jar",
+              "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+              "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
+              "sizeBytes": 2850938,
+              "license": "LGPL-3.0-only",
+              "sourceUrl": "https://github.com/IrisShaders/Iris",
+              "projectVersion": "1.11.7+26.3-fabric"
+            },
+            {
               "filename": "lithium-fabric-0.26.3+mc26.3.jar",
               "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
               "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
@@ -196,6 +214,15 @@
               "projectVersion": "mc26.2-0.9.2-fabric"
             },
             {
+              "filename": "iris-fabric-1.11.4+mc26.2.jar",
+              "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/gxZWWnKH/iris-fabric-1.11.4%2Bmc26.2.jar",
+              "sha1": "bd0b24731a94b8fe164531e6345718d30ab08ed2",
+              "sizeBytes": 2821616,
+              "license": "LGPL-3.0-only",
+              "sourceUrl": "https://github.com/IrisShaders/Iris",
+              "projectVersion": "1.11.4+26.2-fabric"
+            },
+            {
               "filename": "lithium-fabric-0.25.3+mc26.2.jar",
               "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar",
               "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
@@ -259,6 +286,15 @@
               "license": "LicenseRef-Polyform-Shield-1.0.0",
               "sourceUrl": "https://github.com/CaffeineMC/sodium",
               "projectVersion": "mc26.1.2-0.9.2-fabric"
+            },
+            {
+              "filename": "iris-fabric-1.11.4+mc26.1.2.jar",
+              "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/sZbVsl2Q/iris-fabric-1.11.4%2Bmc26.1.2.jar",
+              "sha1": "6a345caf8850e38dccd076f984cf02d6ec39ed83",
+              "sizeBytes": 2792203,
+              "license": "LGPL-3.0-only",
+              "sourceUrl": "https://github.com/IrisShaders/Iris",
+              "projectVersion": "1.11.4+26.1-fabric"
             },
             {
               "filename": "lithium-fabric-0.24.7+mc26.1.2.jar",
