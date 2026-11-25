@@ -61,10 +61,10 @@
               "projectVersion": "8.2.0-fabric"
             },
             {
-              "filename": "entityculling-fabric-1.11.3-mc1.21.11.jar",
-              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/CTabrwB1/entityculling-fabric-1.11.3-mc1.21.11.jar",
-              "sha1": "ce2e1cf7e343a625d184c80ccea582d468686a2e",
-              "sizeBytes": 1529094,
+              "filename": "entityculling-fabric-1.12.2-mc1.21.11.jar",
+              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/bTu42fvx/entityculling-fabric-1.12.2-mc1.21.11.jar",
+              "sha1": "6e3ea8f9c8bc14ac91328314f4b270b6cf6927ab",
+              "sizeBytes": 1543912,
               "license": "LicenseRef-tr7zw-Protective-License",
               "sourceUrl": "https://github.com/tr7zw/EntityCulling",
               "projectVersion": "1.11.3"
@@ -167,10 +167,10 @@
               "projectVersion": "9.0.0-fabric"
             },
             {
-              "filename": "entityculling-fabric-1.11.3-mc26.3.jar",
-              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
-              "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
-              "sizeBytes": 1508547,
+              "filename": "entityculling-fabric-1.12.2-mc26.3.jar",
+              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/42iHT1ru/entityculling-fabric-1.12.2-mc26.3.jar",
+              "sha1": "56c3a85e1e665526861a701e6fcd0d65e922dd11",
+              "sizeBytes": 1522839,
               "license": "LicenseRef-tr7zw-Protective-License",
               "sourceUrl": "https://github.com/tr7zw/EntityCulling",
               "projectVersion": "1.11.3"
@@ -241,10 +241,10 @@
               "projectVersion": "9.0.0-fabric"
             },
             {
-              "filename": "entityculling-fabric-1.11.3-mc26.2.jar",
-              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uXe0pIaz/entityculling-fabric-1.11.3-mc26.2.jar",
-              "sha1": "a2210d12bdeac78daf7bb2fdc6b5d85448642cdf",
-              "sizeBytes": 1508596,
+              "filename": "entityculling-fabric-1.12.2-mc26.2.jar",
+              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/M8qoBSI5/entityculling-fabric-1.12.2-mc26.2.jar",
+              "sha1": "4dc4395072d3f0b239c918ec20949ef443a97439",
+              "sizeBytes": 1522911,
               "license": "LicenseRef-tr7zw-Protective-License",
               "sourceUrl": "https://github.com/tr7zw/EntityCulling",
               "projectVersion": "1.11.3"
@@ -315,10 +315,10 @@
               "projectVersion": "9.0.0-fabric"
             },
             {
-              "filename": "entityculling-fabric-1.11.3-mc26.1.jar",
-              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/VhQ51u7a/entityculling-fabric-1.11.3-mc26.1.jar",
-              "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d",
-              "sizeBytes": 1506721,
+              "filename": "entityculling-fabric-1.12.2-mc26.1.jar",
+              "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uX7jTLfw/entityculling-fabric-1.12.2-mc26.1.jar",
+              "sha1": "9fb0383852907663ffc86a5d3aae02a19508d5bf",
+              "sizeBytes": 1521064,
               "license": "LicenseRef-tr7zw-Protective-License",
               "sourceUrl": "https://github.com/tr7zw/EntityCulling",
               "projectVersion": "1.11.3"
